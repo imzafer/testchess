@@ -45,8 +45,13 @@ public class ThemeChooseWindow extends JDialog implements ActionListener, ListSe
     ThemeChooseWindow(Frame parent) throws Exception
     {
         super(parent);
+        System.out.println("The Jaffar theme directory path is: " + GUI.getJarPath());
+        //String themePath = "C:\\Users\\Jaffar\\Downloads\\joChess-1.0.1-sources\\jchess\\theme";
+        //commented this and added below
+        // File dir = new File(GUI.getJarPath() + File.separator + "theme"+File.separator);
+        String themePath = "C:\\Users\\Jaffar\\Downloads\\joChess-1.0.1-sources\\jchess\\theme";
+        File dir = new File(themePath);
 
-        File dir = new File(GUI.getJarPath() + File.separator + "theme"+File.separator);
 
         System.out.println("Theme path: "+dir.getPath());
 
