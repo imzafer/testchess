@@ -1,0 +1,30 @@
+[33mcommit 9f52a9567308cc636930ff6c46cc345c8a900445[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mohammad jaffar <jaffarmohammad88@gmail.com>
+Date:   Wed Oct 30 08:42:15 2024 +0100
+
+    Updated configuration and added README file
+
+[33mcommit 0f2e792ece26842519ba48a309e2726c5e810148[m
+Merge: 36c7181 0954bd3
+Author: Mohammad jaffar <jaffarmohammad88@gmail.com>
+Date:   Tue Oct 29 17:27:43 2024 +0100
+
+    Merge master into main
+
+[33mcommit 36c7181f6d0c8d6f5f522782d51f55201d5f8d3d[m
+Author: Mohammad jaffar <57564055+imzafer@users.noreply.github.com>
+Date:   Tue Oct 29 17:20:04 2024 +0100
+
+    Initial commit
+
+[33mcommit 0954bd3bca2177cf9a7144d3f2a0a68bfc1e8a0e[m
+Author: Mohammad jaffar <jaffarmohammad88@gmail.com>
+Date:   Tue Oct 29 17:19:04 2024 +0100
+
+    Initial commit test
+
+[33mcommit aa388f094b1ed0724474221564897c8582ec7194[m
+Author: Mohammad jaffar <jaffarmohammad88@gmail.com>
+Date:   Tue Oct 29 16:44:23 2024 +0100
+
+    Added source code folders
