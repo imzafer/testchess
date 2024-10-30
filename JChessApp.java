@@ -31,7 +31,8 @@ public class JChessApp extends SingleFrameApplication {
         show(jcv);
     }
 
-    /**
+    /**git commit -m "Updated configuration and added README file"
+
      * This method is to initialize the specified window by injecting resources.
      * Windows shown in our application come fully initialized from the GUI
      * builder, so this additional configuration is not needed.
